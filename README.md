@@ -6,6 +6,8 @@
 <img width="439" alt="image" src="https://github.com/MiuLab/GenIR-Survey/assets/81730878/14bf607d-74b3-4e75-ac59-6d92accd68e9">
 
 - propose an alternative IR architecture called differentiable search index (DSI), direct seq2seq map query to document ID
+<img width="733" alt="image" src="https://github.com/MiuLab/GenIR-Survey/assets/81730878/4347b414-6673-4231-980a-cf1422907728">
+
 ## Definition of GenIR (DSI)
 <img width="1014" alt="image" src="https://github.com/MiuLab/GenIR-Survey/assets/81730878/6850745b-3a90-4946-b57a-ed38e0055ce9">
 
