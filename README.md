@@ -1,16 +1,14 @@
 # Generative IR Survey Paper Structure
 
 ## Introduction
-Introduce the emerging field of Generative Information Retrieval (GenIR), highlighting its importance and the innovation of Differentiable Search Indexes (DSI) in transforming traditional IR systems. This section sets the stage for the paper by outlining the motivation and the overarching goal of the survey.
-
+- Traditional DPR (Retrieve then Rank)
+- propose an alternative IR architecture called differentiable search index (DSI), direct seq2seq map query to document ID
 ## Definition of GenIR (DSI)
 ### Intro to DSI
 Two Major Components
 - Indexing
 - Retrieval
-
-### Distinguishing DSI from Dense Passage Retrieval (DPR)
-
+  
 ## Identifier Strategies in Generative IR
 ### Document Identifiers
 
