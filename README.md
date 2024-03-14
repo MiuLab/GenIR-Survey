@@ -38,6 +38,10 @@ Two Major Components
     - Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation
     - Multiview Identifiers Enhanced Generative Retrieval
 
+## Add New Documents
+- DSI++: Updating Transformer Memory with New Documents
+- Continual Learning for Generative Retrieval over Dynamic Corpora
+
 ## Evaluation of Generative IR
 Compare the performance of traditional IR systems with DSI-based IR systems
 
