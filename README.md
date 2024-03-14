@@ -18,7 +18,13 @@
 Two Major Components
 - Indexing
 - Retrieval
-  
+
+### Pros and Cons of DSI
+- Pros
+    - End-to-end training
+- Cons
+    - Not easy to scale DSI systems to handle large data volumes
+
 ## Identifier Strategies in Generative IR
 ### Document Identifiers
 
@@ -54,6 +60,10 @@ Two Major Components
 
 ## Evaluation of Generative IR
 Compare the performance of traditional IR systems with DSI-based IR systems
+- Datasets
+    - IR tasks
+    - knowledge intensive tasks (eg. QA)
+- Metrics
 
 ## Limitations and Future Directions
 - **Challenges with DSI**: Address potential issues
