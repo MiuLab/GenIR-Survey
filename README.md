@@ -3,13 +3,13 @@
 ## Introduction
 Introduce the emerging field of Generative Information Retrieval (GenIR), highlighting its importance and the innovation of Differentiable Search Indexes (DSI) in transforming traditional IR systems. This section sets the stage for the paper by outlining the motivation and the overarching goal of the survey.
 
-## Generative IR Defined through the Concept of DSI
-### Brief Introduction to Differentiable Search Index (DSI)
-- **Indexing and Retrieval Components**: Define DSI and explain its two major components, indexing and retrieval, as the backbone of Generative IR. Emphasize how DSI integrates these components into a unified, gradient-based optimization framework.
-- **Key Advancements**: Highlight how DSI enables more flexible and powerful search capabilities by allowing the system to learn and adapt from data directly.
+## Definition of GenIR (DSI)
+### Intro to DSI
+Two Major Components
+- Indexing
+- Retrieval
 
 ### Distinguishing DSI from Dense Passage Retrieval (DPR)
-- **Generative vs. Dense Retrieval**: Contrast DSI's generative capabilities with DPR's vector space matching approach, underscoring DSI's potential for generating more nuanced and context-aware responses.
 
 ## Identifier Strategies in Generative IR
 ### Document Identifiers
