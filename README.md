@@ -13,23 +13,39 @@ Introduce the emerging field of Generative Information Retrieval (GenIR), highli
 
 ## Identifier Strategies in Generative IR
 ### Document Identifiers
-- **Evolution of Document IDs in DSI**: Discuss advancements in using Transformer architectures and learning strategies to efficiently index and retrieve documents with dynamic updates and tokenization techniques.
+
+- Transformer Memory as a Differentiable Search Index
+- DSI++: Updating Transformer Memory with New Documents
+- Learning to Tokenize for Generative Retrieval
 
 ### String Identifiers
-- **Innovations in String-based Retrieval**: Explore how generative models create and utilize string identifiers, enhancing semantic understanding and ranking within Generative IR systems.
+
+- Autoregressive Search Engines: Generating Substrings as Document Identifiers
+- Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies
+- Learning to Rank in Generative Retrieval
+- TOME: A Two-stage Approach for Model-based Retrieval
+- Multiview Identifiers Enhanced Generative Retrieval
 
 ## Enhancing Query Generation and Expansion
-Discuss the role of query generation and expansion in improving IR performance, including generating training data and enhancing query-document matching through generative techniques.
+- generating more training data
+- document representation as queries
 
 ## Document Representation in DSI
-- **DSI Approaches**: Cover various strategies for document representation within DSI, including direct, set, and inverted indexing.
-- **Bridging Indexing and Retrieval**: Analyze how DSI addresses the challenge of seamlessly connecting query representation with document indexing for more effective retrieval.
+- DSI
+    - Direct Indexing
+    - Set Indexing
+    - Inverted Index
+- Bridging the Gap
+    - queries as representation
+    - Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation
+    - Multiview Identifiers Enhanced Generative Retrieval
 
 ## Evaluation of Generative IR
-Compare the performance of traditional IR systems with DSI-based IR systems, highlighting the improvements in accuracy, relevance, and user satisfaction.
+Compare the performance of traditional IR systems with DSI-based IR systems
 
 ## Limitations and Future Directions
-- **Challenges with DSI**: Address potential issues, such as generating non-existent document IDs and scaling DSI systems to handle large data volumes.
-- **Closing the Gap**: Discuss ongoing research and potential solutions to bridge the remaining gaps between indexing and retrieval in Generative IR systems.
+- **Challenges with DSI**: Address potential issues
+  - generating non-existent document IDs (FM Index)
+  - scaling DSI systems to handle large data volumes.
 
 This structure aims to provide a comprehensive overview of Generative IR and the pivotal role of Differentiable Search Indexes, making it accessible to newcomers while detailing the progress and challenges in the field.
