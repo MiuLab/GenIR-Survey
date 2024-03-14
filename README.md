@@ -1,6 +1,7 @@
 # Generative IR Survey Paper Structure
 
 ## Introduction
+- Briefly introduce the history and trend in IR
 - Traditional DPR (Retrieve then Rank)
 <img width="439" alt="image" src="https://github.com/MiuLab/GenIR-Survey/assets/81730878/14bf607d-74b3-4e75-ac59-6d92accd68e9">
 
